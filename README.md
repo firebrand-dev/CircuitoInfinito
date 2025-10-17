@@ -1,2 +1,2 @@
 # CircuitoInfinito
-Juego roguelike futurista desarrollado por Firebrand Studio con Godot 4.
+Se agregó una línea de prueba para el Agente Coder.
